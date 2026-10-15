@@ -1,0 +1,4 @@
+interface:
+  display_name: "MathType 参考格式插入"
+  short_description: "Insert editable MathType equations matching Word references"
+  default_prompt: "Use $mathtype-word-reference to insert editable MathType equations and inline symbols into Word with reference-matched fonts and right-aligned numbering."

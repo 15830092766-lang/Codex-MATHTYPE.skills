@@ -1,0 +1,18 @@
+{
+  "display": [
+    {
+      "marker": "FORMULA_MAIN_1",
+      "source_paragraph": 12,
+      "number": "(1)",
+      "note": "Replace these illustrative indices with values from inspect."
+    }
+  ],
+  "inline": [
+    {
+      "text": "Δs_i",
+      "source_paragraph": 13,
+      "source_object": 0,
+      "expected_count": 2
+    }
+  ]
+}
